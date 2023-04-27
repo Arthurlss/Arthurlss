@@ -1,15 +1,16 @@
-### Hi there 👋
+
 
 Olá pessoal, meu chamo Arthur Lindberg
 
 Bem vindos ao meu perfil
 
-- 🔭 Estou atualmente trabalhando com desenvolvimento de aplicativos mobile utilizando a linguagem Dart e o framework Flutter.
+- 🔭 Estou atualmente trabalhando com desenvolvimento de aplicativos mobile utilizando a linguagem Dart e o framework Flutter, sigo a cada dia me identificando e me apaixonando mais por essa área maravilhosa. 
 
-
-- 🌱 Atualmente estou aprendendo mais e mais sobre essa excelente ferramenta entre outras tecnologias complementares 
+- 🌱 Atualmente estou trabalhando na área 
 
 - 👯 Estou buscando aprimoramento de minhas habilidades e o 
+
+[![trophy](https://github-profile-trophy.vercel.app/Arthurlss=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
