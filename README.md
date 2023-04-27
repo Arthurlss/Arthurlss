@@ -6,11 +6,17 @@ Bem vindos ao meu perfil
 
 - 🔭 Estou atualmente trabalhando com desenvolvimento de aplicativos mobile utilizando a linguagem Dart e o framework Flutter, sigo a cada dia me identificando e me apaixonando mais por essa área maravilhosa. 
 
-- 🌱 Atualmente estou trabalhando na área 
+- 🌱 Como me encontrar: arthurlindbergss@gmail.com
 
 - 👯 Estou buscando aprimoramento de minhas habilidades e o 
 
-[![trophy](https://github-profile-trophy.vercel.app/Arthurlss=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arthurlss&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Arthurlss)
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) 
+
 
 
 
