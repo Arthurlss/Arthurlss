@@ -1,6 +1,6 @@
 
 
-Olá pessoal, meu chamo Arthur Lindberg
+Olá pessoal, me chamo Arthur Lindberg
 
 Bem vindos ao meu perfil
 
