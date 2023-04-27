@@ -8,11 +8,17 @@ Bem vindos ao meu perfil
 
 - 🌱 Como me encontrar: arthurlindbergss@gmail.com
 
-- 👯 Estou buscando aprimoramento de minhas habilidades e o 
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arthurlss&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Arthurlss)
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" />
+
+
+
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) 
